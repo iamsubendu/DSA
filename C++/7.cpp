@@ -1,9 +1,4 @@
-// Conditional Statements
-// if-else
 
-// Ternary Statement
-// meaning three
-// condition ? statement1: statement2;
 
 #include <iostream>
 using namespace std;
@@ -19,7 +14,7 @@ using namespace std;
 //     }
 //     else
 //     {
-//         cout << "Upeercase";
+//         cout << "Uppercase";
 //     }
 //     return 0;
 // }

@@ -1,8 +1,3 @@
-// Loops
-// while
-// do while
-// for
-
 #include <iostream>
 using namespace std;
 

@@ -16,4 +16,6 @@ int main()
 {
     int data = factorial(3);
     cout << data;
+
+    return 0;
 }

@@ -1,9 +1,10 @@
 #include <iostream>
 // for input/output
-using namespace std; 
+using namespace std;
 // standard namespace
 
-int main(){
+int main()
+{
 
     cout << "Hello";
     return 0;
@@ -18,7 +19,7 @@ int main(){
 // 0/1 binary ->  executable file which will have binary instructions
 
 // to compile(use powershell) -> g++ fileName.cpp -o executableFileName
-// g++ command is a GNU c++ compiler invocation command, which is used for preprocessing, 
-// compilation, assembly and linking of source code to generate an executable file. 
+// g++ command is a GNU c++ compiler invocation command, which is used for preprocessing,
+// compilation, assembly and linking of source code to generate an executable file.
 
 // to run exe -> ./filename.exe

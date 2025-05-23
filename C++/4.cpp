@@ -1,6 +1,4 @@
 // Type casting
-// converting data from one type to another
-
 #include <iostream>
 using namespace std;
 
